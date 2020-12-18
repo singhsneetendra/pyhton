@@ -1,0 +1,13 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*~
+*.swp
+.#*
+*.tdy
+.idea
+*.iml
+.classpath
+.metadata
+.project
+.settings
+*.bak
+**venv
